@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\jerry\source\repos\cmpe126lab8\cmpe126lab8\sortedarraylist.h(150): warning C4715: 'sortedArrayList<int>::binSearchRec': not all control paths return a value
+  CMPE126Lab8.vcxproj -> C:\Users\jerry\source\repos\CMPE126Lab8\Debug\CMPE126Lab8.exe

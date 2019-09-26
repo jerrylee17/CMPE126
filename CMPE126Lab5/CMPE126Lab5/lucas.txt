@@ -1,0 +1,39 @@
+call lucas(7)
+call lucas(6)
+call lucas(5)
+call lucas(4)
+call lucas(3)
+call lucas(2)
+returning 1 from 2
+call lucas(1)
+returning 2 from 1
+call lucas(2)
+returning 1 from 2
+call lucas(3)
+call lucas(2)
+returning 1 from 2
+call lucas(1)
+returning 2 from 1
+call lucas(4)
+call lucas(3)
+call lucas(2)
+returning 1 from 2
+call lucas(1)
+returning 2 from 1
+call lucas(2)
+returning 1 from 2
+call lucas(5)
+call lucas(4)
+call lucas(3)
+call lucas(2)
+returning 1 from 2
+call lucas(1)
+returning 2 from 1
+call lucas(2)
+returning 1 from 2
+call lucas(3)
+call lucas(2)
+returning 1 from 2
+call lucas(1)
+returning 2 from 1
+The 7th Lucas number is 18
